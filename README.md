@@ -2,7 +2,7 @@
 
 > Ekranda bir alan seç, yazıyı anında panoya kopyala.
 
-![Banner](https://i.hizliresim.com/hzr3f7l.png)
+![Banner](banner.png)
 
 ---
 
